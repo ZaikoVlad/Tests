@@ -1,6 +1,6 @@
-package com.company;
+package Task1;
 
-public class Main {
+public class Task1 {
 
     public static void main(String[] args) {
         StringBuilder result = new StringBuilder();
@@ -11,4 +11,6 @@ public class Main {
             System.out.print(letters[i]);
         }
     }
+
+
 }
